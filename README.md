@@ -1,15 +1,15 @@
-###SCCC- SpawnCampGames Character Controller v01
+#### SCCC- SpawnCampGames Character Controller v01
 ~~Super Duper First Person Shooter Controller~~ v4
 
-A well rounded and fluid 3D Character Controller
-<sub>built with Unity's Non-Rigidbody Character Controller</sub>
-####System Components
+A well rounded and fluid 3D Character Controller<sub>
+built with Unity's Non-Rigidbody Character Controller</sub>
+#### System Components
 - Player Character Controller
 - Camera Controller
 - Head Bob & Weapon Sway
 - FOV Zoom
 
-####Options
+#### Options
 - Simulated Gravity
 - Movement Momentum
 - Smoothed Camera Rotation
@@ -18,7 +18,7 @@ A well rounded and fluid 3D Character Controller
 - Default Ground Check
 - Beginner Friendly && Commented
 
-####Features
+#### Features
 - Walking
 - Running
 - Jumping w/ Double
