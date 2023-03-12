@@ -1,9 +1,8 @@
 ## SCCC- SpawnCampGames Character Controller v01
-~~Super Duper First Person Shooter Controller~~ v4
----
-
-A well rounded and fluid 3D Character Controller<sub>
-built with Unity's Non-Rigidbody Character Controller</sub>
+*A simple, fluid, and responsive 3D Character Controller.*
+*..featuring basic-to-advanced functionallity along with camera and movement smoothing.*
+<sub>Built using Unity's non-rigidbody character controller</sub>
+![Best Feeling Controller](https://github.com/SpawnCampGames/SCG-Player-Controller/blob/main/SCG_Controller.png?raw=true)
 #### System Components
 - Player Character Controller
 - Camera Controller
@@ -27,8 +26,5 @@ built with Unity's Non-Rigidbody Character Controller</sub>
 - Sliding
 - Climbing
 - Scoped
-
 - Debug Inspector
 - Gizmo Debugging
-
-![Best Feeling Controller](https://github.com/SpawnCampGames/SCG-Player-Controller/blob/main/SCG_Controller.png?raw=true)
