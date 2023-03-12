@@ -1,7 +1,6 @@
-## SCCC- SpawnCampGames Character Controller v01
-<sub>
+### SCCC- SpawnCampGames Character Controller v01
 ~~Super Duper First Person Shooter Controller~~ v4
-</sub>
+---
 
 A well rounded and fluid 3D Character Controller<sub>
 built with Unity's Non-Rigidbody Character Controller</sub>
